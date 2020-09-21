@@ -62,11 +62,11 @@
     "prettier": "^1.9.2"
   },
   "dependencies": {
-    "ember-auto-import": "^1.0.1",
-    "ember-cli-babel": "^6.3.0",
+    "ember-auto-import": "*",
+    "ember-cli-babel": "*",
     "react": "^15.5.4 || ^16.0.0",
     "react-dom": "^15.5.4 || ^16.0.0",
-    "semver": "^6.0.0"
+    "semver": "*"
   },
   "peerDependencies": {
     "react": "^15.5.4 || ^16.0.0",
